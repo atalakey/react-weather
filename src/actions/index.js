@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '658a37b4eb9128efe4451df85e1de040';
+const API_KEY = '';
 
 export const FETHC_WEATHER = 'FETCH_WEATHER';
 
